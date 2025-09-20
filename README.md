@@ -1,5 +1,5 @@
 # Group Members
 
-- Ahnaf Abrar Khan  - Part 3
-- Kai Williams  - Part 2
-- Romil Lakhani  - Part 1
+- Ahnaf Abrar Khan  - Part 3 - Rotated Square
+- Kai Williams  - Part 2 - Indexed Square
+- Romil Lakhani  - Part 1 - Coloured Square
